@@ -1,5 +1,7 @@
 {
   "expo": {
+    "name": "Trends",
+    "icon": "icon.png",
     "sdkVersion": "26.0.0"
   }
 }
